@@ -1,4 +1,4 @@
-# Model_Elevator
+# Model Elevator
 I built a model elevator project to learn how to incorporate hardware systems with a sofware controller. 
 
 Using C, I outlined the logic that determines which direction the elevator will move depending on whichever button is pressed by the user. 
