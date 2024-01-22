@@ -1,7 +1,7 @@
 # Model Elevator
 I built a model elevator project to learn how to incorporate hardware systems with a sofware controller. 
 
-Using C, I outlined the logic that determines which direction the elevator will move depending on whichever button is pressed by the user. 
+Using C++, I outlined the logic that determines which direction the elevator will move depending on whichever button is pressed by the user. 
 
 This is done by reading the upward distance between an ultrasonic sensor at the base of the machine and the elevator cab, and comparing it to the target height depending on whichever button is pressed. 
 
